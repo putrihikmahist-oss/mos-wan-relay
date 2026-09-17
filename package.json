@@ -1,0 +1,13 @@
+{
+  "name": "mos-wan-relay",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test-relay.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
