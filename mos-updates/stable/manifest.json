@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "packageName": "com.mos.cam.controller",
+  "versionCode": 30,
+  "versionName": "0.5.0-langka-foundation-update",
+  "apkUrl": "https://raw.githubusercontent.com/putrihikmahist-oss/mos-wan-relay/main/mos-updates/stable/MOS-Langka-latest.apk",
+  "sha256": "829CDF23AB67A7AA5A94A4E5270EEF36D8950B1A3D8C75561F28F3AEDDB3B05D",
+  "mandatory": false,
+  "notes": "MOS Langka Foundation: stable lineage, update foundation. Physical gates remain required before promotion of future builds."
+}
